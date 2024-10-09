@@ -17,7 +17,7 @@ This is a simple application to demonstrate **Retrieval-Augmented Generation (RA
 ## Key Technologies Used
 
 - **Embeddings**: [Craig/paraphrase-MiniLM-L6-v2](https://huggingface.co/Craig/paraphrase-MiniLM-L6-v2)
-- **Inference Model**: [Llama3-8b-8192](https://huggingface.co/models/meta-llama/Meta-Llama-3-8B)
+- **Inference Model**: [Llama3-8b-8192](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
 
 ## Deployment
 
